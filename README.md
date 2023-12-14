@@ -1,7 +1,8 @@
 # bloc_demo
 Demo project for Flutter Meetup Vicenza talk
 
-Once downloaded the zip file from GitHub or cloned the project, in the root folder, run the command "flutter pub get".
+At first, ensure to have installed the Flutter SDK by following the instructions at https://docs.flutter.dev/get-started/install.
+Then, once downloaded the zip file from GitHub or cloned the project, in the root folder, run the command "flutter pub get".
 P.S.: The firebase files are missing. In order to generate new ones on your own, please write in your terminal, in the root folder of your project, the following commands:
 
 1. firebase login
